@@ -1,0 +1,34 @@
+# Python (Django)
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.env
+.env
+db.sqlite3
+
+# Virtualenv
+venv/
+env/
+
+# Node.js (Next.js)
+node_modules/
+.next/
+dist/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Mac/Linux/Windows cache
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Outros
+.idea/
+*.iml
